@@ -78,7 +78,7 @@ body{
     border-radius: 30px;
     color: white;
     cursor: pointer;
-    border: #A435F0 solid 1px;
+    border: #A435F0 solid 1px ;
 }
 .categories p:hover{
     transition: 2s;
